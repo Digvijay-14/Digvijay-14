@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-I am a results-driven Data Analyst with hands-on experience in transforming complex datasets into clear, actionable insights. My expertise includes dashboard development, business reporting, data modeling, and data cleaning, supported by strong analytical storytelling. I work confidently with Power BI, Excel, SQL, and Python to solve business problems, optimize decision-making, and deliver impactful data solutions.
+I am a dedicated **Data Analyst** with strong skills in dashboard development, business reporting, data cleaning, and analytical storytelling. I enjoy converting raw data into meaningful insights using tools like **Power BI, Excel, SQL, and Python**
 
 ---
 
