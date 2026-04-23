@@ -1,78 +1,82 @@
 <p align="center">
-  <img src="image/image.png" width="350" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e73df,100:1cc88a&height=230&section=header&text=Digvijay%20Rajput&fontSize=40&fontColor=ffffff&desc=Data%20Analyst%20%7C%20Excel%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI%20%7C%20ETL%20%7C%20Dashboard%20Design&descSize=18&descAlignY=70" />
+</p>
+<p align="center">
+  <img src="image/DA.png" width="850" />
 </p>
 
-<h1 align="center">Hi, I'm Digvijay 👋</h1>
-
-<h3 align="center">Data Analyst | Power BI Developer | Excel | SQL | Python</h3>
 
 ---
 
 ## 🚀 About Me
-I am a dedicated **Data Analyst** with strong skills in dashboard development, business reporting, data cleaning, and analytical storytelling. I enjoy converting raw data into meaningful insights using tools like **Power BI, Excel, SQL, and Python**
+I am a **Data Analyst** focused on transforming raw data into actionable insights and business solutions.  
+I specialize in **dashboard development, data analysis, and reporting**, with hands-on experience in real-world projects.
+
+- 📊 Skilled in building interactive dashboards using **Power BI & Excel**
+- 🧹 Strong in **data cleaning, transformation, and ETL processes**
+- 🧠 Passionate about **data storytelling and decision-making**
+- 📈 Focused on delivering **business-driven insights**
 
 ---
 
 ## 🔧 Skills & Tools
 
-### **📊 Data Visualization**
+### 📊 Data Visualization
 - Power BI  
 - Excel (Pivot Tables, Power Query, Dashboards)  
-- Matplotlib & Plotly  
+- Matplotlib, Plotly  
 
-### **🗄️ Databases & Querying**
+### 🗄️ Databases
 - SQL  
 - MySQL  
 
-
-### **🐍 Programming**
+### 🐍 Programming
 - Python (Pandas, NumPy)  
 
-### **📁 Additional Skills**
+### ⚙️ Other Skills
 - DAX  
-- ETL  
-- Git & GitHub  
+- ETL Processes  
 - Data Cleaning  
 - Business Reporting  
+- Git & GitHub  
 
 ---
 
 ## 📈 Featured Projects
 
-### 🔹 **PhonePe Pulse Data Visualization**
-Interactive analytics dashboard showing digital payment trends across India.
+### 🔹 Starbucks Sales Analysis (Excel)  
+Interactive Excel dashboard analyzing sales trends, product performance, and customer behavior.
 
-### 🔹 **HR Salary Analysis Dashboard**
-Dual interactive Power BI dashboard analyzing salary, bonus, experience, and performance patterns.
+### 🔹 E-commerce Sales Dashboard (Power BI)  
+Dynamic Power BI dashboard tracking revenue, profit, orders, and regional performance.
 
-### 🔹 **Software Sales Analytics**
+### 🔹 Netflix Data Analysis (Python)  
+Exploratory data analysis using Python to uncover trends in content, genres, and release patterns.
+
+### 🔹 HR Salary Analysis Dashboard (Power BI)  
+Dashboard analyzing salary distribution, experience, bonus, and performance insights.
+
+### 🔹 Software Sales Analytics  
 Global sales dashboard tracking revenue, profit, and market performance.
 
-### 🔹 **Sales Insights (Excel Dashboard)**
-Excel-based interactive dashboard analyzing sales performance, revenue, profitability, and category trends.
-
-### 🔹 **Airbnb Analytics (Power BI)**
-City-wise insights on pricing, occupancy, and booking trends.
-
-You can explore all my projects here:  
-👉 **https://github.com/Digvijay-14**
-
----
-
-## 📫 Connect With Me
-- **Email:** digvijayr777@gmail.com 
-- **GitHub:** https://github.com/Digvijay-14  
+👉 Explore more projects:  
+**https://github.com/Digvijay-14**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Digvijay-14&show_icons=true&theme=blueberry" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digvijay-14&layout=compact&theme=blueberry" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Digvijay-14&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Digvijay-14&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+## 📫 Connect With Me
+- 📧 Email: **digvijayr777@gmail.com**  
+- 💻 GitHub: **https://github.com/Digvijay-14**
 
+---
+
+⭐ *Thanks for visiting my profile!*
